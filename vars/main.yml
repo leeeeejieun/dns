@@ -1,0 +1,8 @@
+---
+packages:
+  - bind
+  - bind-utils
+
+service: named
+
+fw_53: dns
