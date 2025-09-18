@@ -51,5 +51,5 @@ ns_server:
   tasks:
     - name: Run DNS server setup role
       ansible.builtin.include_role:
-        name: mydns
+        name: leeeeejieun.dns
 ```
